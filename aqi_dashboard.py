@@ -18,7 +18,7 @@ st.set_page_config(
 # IMPORTANT: You need to get your own free API token from https://aqicn.org/data-platform/token/
 # After getting the token, it is recommended to set it as an environment variable.
 # For local testing, you can uncomment the line below and paste your token.
-os.environ['AQI_API_TOKEN'] = 'b8a98b4df9ea8410319e6beaeab5a8729da1efd9'
+# os.environ['AQI_API_TOKEN'] = 'PASTE AQI TOKEN HERE'
 
 API_TOKEN = os.environ.get('AQI_API_TOKEN')
 
