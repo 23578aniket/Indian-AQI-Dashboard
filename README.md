@@ -1,6 +1,6 @@
 # Live Air Quality Index (AQI) Dashboard for Major Indian Cities
 
-![Dashboard Screenshot]([https://github.com/23578aniket/Indian-AQI-Dashboard/blob/main/Screenshot%202025-09-25%20012519.png])  <!-- You will add this URL in the final step -->
+![Dashboard Screenshot]([https://github.com/23578aniket/Indian-AQI-Dashboard/blob/38756cc74e7ebf5127a2e32cc504df5850656ba0/Screenshot%202025-09-25%20012519.png])  <!-- You will add this URL in the final step -->
 
 ### [https://aqidashboard-23578.streamlit.app/]) <!-- You will add this URL in the final step -->
 
