@@ -1,4 +1,6 @@
 # Live Air Quality Index (AQI) Dashboard for Major Indian Cities
+<img width="2450" height="1177" alt="Screenshot 2025-09-25 012519" src="https://github.com/user-attachments/assets/49a9127f-6fd8-4d64-99d8-f176029bba3b" />
+
 ### [https://aqidashboard-23578.streamlit.app/]) <!-- You will add this URL in the final step -->
 
 ## 1. Project Overview
